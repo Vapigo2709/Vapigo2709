@@ -16,7 +16,7 @@ me gusta la programación, las matemáticas, la quimica, la fisica
 
 ## 📬 Contacto
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://x.com/rectmat555)](https://x.com/rectmat555)
-[![LinkedIn Badge](https://www.linkedin.com/in/valentina-pineda-g%C3%B3mez-72689b353/)
+[![LinkedIn Badge] (www.linkedin.com/in/valentina-pineda-gómez-72689b353)
 <!--
 *erivera23/erivera23* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
